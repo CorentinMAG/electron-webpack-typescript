@@ -1,0 +1,1 @@
+Le live reload ne marche que dans le navigateur
